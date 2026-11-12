@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/rohanburugapalli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR-RESUME-LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/1InVXbloPKgjsKo7tt-f3lRQVX0iqeo_h/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-1e1f26?style=for-the-badge" />
   </a>
 </div>
