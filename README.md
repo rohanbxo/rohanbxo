@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Rohan!;AI%2FML+Engineer+%C2%B7+AI+Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&width=600&height=60&lines=Hi+There%2C+I+am+Rohan;AI%2FML+Engineer;LLM+Agents+%C2%B7+AI+Security" alt="Typing SVG" />
 </h1>
 
 ### An AI/ML engineer building LLM agents that are secure, measurable, and ready for production.
